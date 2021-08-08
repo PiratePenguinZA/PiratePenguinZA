@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PiratePenguinZA
 - 👀 I’m interested in Linux & pentesting
 - 🌱 I’m currently learning Arch Linux /BlachArch
--📫 How to reach me ...Jr1Nowell@gmai.com
+- 📫 How to reach me ...Jr1Nowell@gmai.com
 - 
 
 <!---
